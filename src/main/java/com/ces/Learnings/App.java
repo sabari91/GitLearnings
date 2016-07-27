@@ -20,7 +20,7 @@ public class App
         vehicle.put(02, "BMW");
         vehicle.put(03, "Benz");
         vehicle.put(04,"Lambo");
-        vehicle.put(05, "GTR");
+        //vehicle.put(05, "GTR");
         
    
        // (int i=0; i <= vehicle.size(); i++)
